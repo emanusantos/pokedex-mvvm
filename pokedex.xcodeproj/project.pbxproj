@@ -17,6 +17,7 @@
 		D335E4092AB668FB005744BB /* ViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = D335E4082AB668FB005744BB /* ViewModel.swift */; };
 		D335E40C2AB66918005744BB /* PokemonManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = D335E40B2AB66918005744BB /* PokemonManager.swift */; };
 		D335E40F2AB67A58005744BB /* PokemonDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D335E40E2AB67A58005744BB /* PokemonDetailView.swift */; };
+		D335E4112AB68012005744BB /* PokemonView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D335E4102AB68012005744BB /* PokemonView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -32,6 +33,7 @@
 		D335E4082AB668FB005744BB /* ViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewModel.swift; sourceTree = "<group>"; };
 		D335E40B2AB66918005744BB /* PokemonManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PokemonManager.swift; sourceTree = "<group>"; };
 		D335E40E2AB67A58005744BB /* PokemonDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PokemonDetailView.swift; sourceTree = "<group>"; };
+		D335E4102AB68012005744BB /* PokemonView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PokemonView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -131,6 +133,7 @@
 			children = (
 				D335E3F12AB660CC005744BB /* ContentView.swift */,
 				D335E40E2AB67A58005744BB /* PokemonDetailView.swift */,
+				D335E4102AB68012005744BB /* PokemonView.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -206,6 +209,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D335E4112AB68012005744BB /* PokemonView.swift in Sources */,
 				D335E4092AB668FB005744BB /* ViewModel.swift in Sources */,
 				D335E40C2AB66918005744BB /* PokemonManager.swift in Sources */,
 				D335E3F22AB660CC005744BB /* ContentView.swift in Sources */,
